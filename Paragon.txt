@@ -1,0 +1,3 @@
+KUPIONO: 2
+ZAPLACONO: 54
+Zysk z calego dnia:1539
